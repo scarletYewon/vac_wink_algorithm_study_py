@@ -1,3 +1,5 @@
+#
+
 n = int(input())
 answer = 0
 stack = []
